@@ -1,0 +1,18 @@
+-Funciones vs relaciones
+-Dominio, rango e imagen.
+-Representaciones de funciones.
+-Prueba de la recta vertical.
+-Funciones definidas por partes.
+-Funciones crecientes y decrecientes.
+-Funciones pares e impares.
+-Funciones comunes(lineal, constante, identidad, cuadratica, cubica, raiz cuadrada,valor absoluto)
+-Funciones algebraicas
+-Funciones logaritmicas y exponenciales.
+-Funciones trascendentales.
+-Funciones seccionadas.
+-Combinacion de funciones.
+-Suma, resta, multiplicacion, cocientes,potenciacion y radicacion.
+-Composicion de funciones.
+-Desplazamientos y cambio de tamaño
+-Funciones especiales.
+-Funciones trigonometricas
